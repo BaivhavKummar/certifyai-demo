@@ -10,7 +10,7 @@
 
 For a stable and interactive demonstration of the core user journey, please visit our live prototype:
 
-**[🚀 View the Live Interactive Prototype 🚀](https://certifyai-hackathon-demo-bqswk3z9r4xnyacpmcqr8f.streamlit.app/)**
+**[🚀 View the Live Interactive Prototype 🚀]([https://certifyai-hackathon-demo-bqswk3z9r4xnyacpmcqr8f.streamlit.app/](https://certifyai-demo-8dcz8gpvkfqnt9i8ibnppq.streamlit.app/))**
 
 *(This prototype showcases the core user experience using Streamlit for a fast and reliable presentation.)*
 
